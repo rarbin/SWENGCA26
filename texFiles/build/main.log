@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.1.27)  28 JAN 2026 11:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.1.27)  28 JAN 2026 12:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -562,7 +562,7 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  84i,6n,91p,471b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx3583.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on build/main.pdf (5 pages, 144800 bytes).
+Output written on build/main.pdf (5 pages, 144748 bytes).
 PDF statistics:
  177 PDF objects out of 1000 (max. 8388607)
  152 compressed objects within 2 object streams
