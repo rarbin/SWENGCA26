@@ -1,0 +1,114 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in}
+\usepackage{titlesec}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{bookmark}
+\usepackage{titling}
+\usepackage{setspace}
+\usepackage{anyfontsize}
+\usepackage{tikz}
+\usepackage{tocloft}
+\usepackage{xcolor}
+\definecolor{navy}{RGB}{0,0,128}
+\usetikzlibrary{calc}
+
+
+\renewcommand{\contentsname}{\LARGE\bfseries\centering TABLE OF CONTENTS}
+\renewcommand{\cfttoctitlefont}{\Huge\bfseries\centering}
+\setlength{\cftbeforetoctitleskip}{1em}
+\setlength{\cftaftertoctitleskip}{1.5em}
+
+\renewcommand{\cftsecfont}{\large\bfseries}
+\renewcommand{\cftsubsecfont}{\large}
+\renewcommand{\cftsecpagefont}{\large\bfseries}
+\renewcommand{\cftsubsecpagefont}{\large}
+\renewcommand{\cftsecafterpnum}{\vspace{6pt}}
+\renewcommand{\cftsubsecafterpnum}{\vspace{6pt}}
+\setlength{\cftbeforesecskip}{12pt}
+\setlength{\cftbeforesubsecskip}{8pt}
+
+\setlength{\cftsecnumwidth}{3em}
+\setlength{\cftsubsecnumwidth}{3em}
+\setlength{\cftsubsubsecnumwidth}{3em}
+\setlength{\cftsecindent}{0em}
+\setlength{\cftsubsecindent}{2em}
+\setlength{\cftsubsubsecindent}{4em}
+
+\titleformat{\section}
+  {\normalfont\LARGE\bfseries}
+  {\thesection}{1em}{}
+
+\titleformat{\subsection}
+  {\normalfont\large\bfseries}
+  {\thesubsection}{2em}{}
+
+\titlespacing*{\section}{0pt}{2em}{1em}
+\titlespacing*{\subsection}{0pt}{1.5em}{0.8em}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=navy,
+    filecolor=magenta,      
+    urlcolor=cyan,
+    pdftitle={Project Documentation},
+    pdfauthor={Student Name},
+    bookmarksopen=true
+}
+
+
+\begin{document}
+\begin{titlepage}
+    \begin{tikzpicture}[remember picture,overlay]
+       \node[inner sep=0pt, anchor=north] at (current page.north) {
+    \includegraphics[width=\paperwidth, height=\dimexpr\paperheight+2cm\relax]{image/front.png}
+  
+    };
+      
+        \coordinate (textpos) at ($(current page.south)+(-1.5cm,12.5cm)$);
+        
+        \draw[white, line width=1pt] 
+            ($(1cm,-1.5cm)$) rectangle 
+            ($(13.6cm,-17cm)$);
+   
+        \node[text=white, align=left, font=\fontsize{35}{40}\selectfont\bfseries] 
+            at ($(current page.center)+(-0.2,-3cm)$) {SETUP \\ Student Services App};
+    
+        \node[text=white, align=center, font=\fontsize{20}{20}\selectfont] 
+            at ($(current page.north)+(7.4cm,-2.4cm)$) {2\\0\\2\\6};
+            
+        \node[inner sep=0pt] at ($(current page.north)+(0cm,-10cm)$) {
+            \includegraphics[width=10cm]{image/setulogo.png}
+        };
+
+        \node[text=black, align=center, font=\fontsize{20}{32}\selectfont] 
+            at ($(current page.south)+(0cm,4.5cm)$) {Ruby Walsh, Roxanne Lascota, Madison Roche, Rob Venn};
+        \node[text=black, align=center, font=\fontsize{20}{32}\selectfont] 
+          at ($(current page.south)+(0cm,3cm)$) {20106647, 20113703, 2011XXXX, 20107681};
+        
+        
+    \end{tikzpicture}
+\end{titlepage}
+
+\newpage
+\begingroup
+\renewcommand{\cleardoublepage}{}
+\renewcommand{\clearpage}{}
+\tableofcontents
+\endgroup
+\newpage
+
+\input{introduction}
+
+\input{personas}
+
+\input{scenarios}
+
+\input{userstories}
+
+\input{prototype}
+
+\end{document}
