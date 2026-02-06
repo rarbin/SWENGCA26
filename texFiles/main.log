@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.28)  5 FEB 2026 17:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.1.28)  6 FEB 2026 23:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -528,12 +528,7 @@ l.26 ...tsline {subsection}{Tools Used}{5}{Item.6}
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
- [2] (./introduction.tex
-Underfull \hbox (badness 10000) in paragraph at lines 15--16
-
- []
-
-) (./personas.tex) (./scenarios.tex [3{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]) (./userstories.tex) (./prototype.tex [4]) [5] (./main.aux)
+ [2] (./introduction.tex) (./personas.tex [3{c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]) (./scenarios.tex) (./userstories.tex [4]) (./prototype.tex) [5] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
@@ -542,13 +537,13 @@ L3 programming layer <2026-01-19>
 Here is how much of TeX's memory you used:
  20732 strings out of 468657
  383214 string characters out of 5444507
- 777719 words of memory out of 5000000
+ 778719 words of memory out of 5000000
  49123 multiletter control sequences out of 15000+600000
  636543 words of font info for 52 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  84i,6n,104p,455b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfbx3583.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on main.pdf (6 pages, 153547 bytes).
+Output written on main.pdf (6 pages, 155873 bytes).
 PDF statistics:
  193 PDF objects out of 1000 (max. 8388607)
  166 compressed objects within 2 object streams
