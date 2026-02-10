@@ -1,11 +1,11 @@
 # Fdb version 4
-["bibtex main"] 0 "main.aux" "main.bbl" "main" 1770761554.21532 -1
+["bibtex main"] 0 "main.aux" "main.bbl" "main" 1770766030.68492 -1
   "main.aux" 0 -1 0 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1770761541.32612 "/home/skeletorrent/Downloads/SWENGCA/swengca26/texFiles/main.tex" "main.pdf" "main" 1770761554.21579 0
+["pdflatex"] 1770766016.66438 "/home/skeletorrent/Downloads/SWENGCA/swengca26/texFiles/main.tex" "main.pdf" "main" 1770766030.68528 0
   "/home/skeletorrent/Downloads/SWENGCA/swengca26/texFiles/main.tex" 1770752651.01535 3422 6557e616ac22052f0589fcf3cfd7558f ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1767555874 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1767555874 2900 1537cc8184ad1792082cd229ecc269f4 ""
@@ -156,13 +156,14 @@
   "/usr/share/texmf-dist/web2c/texmf.cnf" 1767555874 42087 b0f9697c952c8f5a8eede4134282cb0d ""
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1769532630 5311557 9da84c45f5b388655502706482323571 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1769532488 2008245 892b4ca6f6be91f58dd379064031d055 ""
-  "build/main.aux" 1770761553.459 9022 3a9e2cafaff658bd7d53a2532fd6f69a "pdflatex"
-  "build/main.toc" 1770761553.48301 1555 c19756464e60d0d7d0373597e4cd985a "pdflatex"
+  "build/main.aux" 1770766030.06484 9310 de068476b2a03d44dbdf68c189889a5c "pdflatex"
+  "build/main.toc" 1770766030.08384 1608 bd2604aef840e4554b17bcd52dda68df "pdflatex"
   "image/MUA1.png" 1770745580.17024 973753 dc918ebab4ec3b26b037e397de4004ee ""
   "image/front.png" 1769600548.00861 16070 938d36580d177fed0556225d7311c9f1 ""
   "image/setulogo.png" 1769600548.00961 12457 bf81837feb37ff872ba60e135e644800 ""
+  "image/studo.png" 1770763846.60779 721256 519711e669cb062234141c827a8b5e51 ""
   "image/xtiles.png" 1770753589.0544 1561737 6c0b48a150846221ad57e1e3328066a6 ""
-  "introduction.tex" 1770761540.53501 6315 160e8842a87b92b480247eefbd92ce51 ""
+  "introduction.tex" 1770765999.99482 7361 a7bd00649ef8d2619868ab8cfb8b8a1a ""
   "main.bbl" 1770761445.36506 992 5ed4a2d0f5ef61d04da964af1bb9539c "bibtex main"
   "main.tex" 1770752651.01535 3422 6557e616ac22052f0589fcf3cfd7558f ""
   "personas.tex" 1769600548.01992 388 94c651cfa0af2fdd2f09778231997fdc ""

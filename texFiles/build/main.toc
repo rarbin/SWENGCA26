@@ -1,18 +1,19 @@
 \contentsline {section}{1. Introduction}{3}{Doc-Start}%
 \contentsline {subsection}{Product Vision}{3}{Doc-Start}%
 \contentsline {subsection}{A1. Maynooth University App}{3}{Doc-Start}%
-\contentsline {subsection}{A2. xTiles}{4}{Doc-Start}%
+\contentsline {subsection}{A2. xTiles}{3}{Doc-Start}%
+\contentsline {subsection}{A3. Studo}{5}{Doc-Start}%
 \contentsline {subsection}{Features}{5}{Doc-Start}%
 \contentsline {section}{2. Personas}{5}{Doc-Start}%
 \contentsline {subsection}{Definition}{5}{Doc-Start}%
 \contentsline {subsection}{Persona 1}{5}{Doc-Start}%
 \contentsline {subsection}{Persona 2}{5}{Doc-Start}%
-\contentsline {subsection}{Persona 3}{5}{Doc-Start}%
-\contentsline {section}{3. Scenarios}{5}{Doc-Start}%
-\contentsline {subsection}{Definition}{5}{Doc-Start}%
-\contentsline {subsection}{Scenario 1}{5}{Doc-Start}%
-\contentsline {subsection}{Scenario 2}{5}{Doc-Start}%
-\contentsline {subsection}{Scenario 3}{5}{Doc-Start}%
+\contentsline {subsection}{Persona 3}{6}{Doc-Start}%
+\contentsline {section}{3. Scenarios}{6}{Doc-Start}%
+\contentsline {subsection}{Definition}{6}{Doc-Start}%
+\contentsline {subsection}{Scenario 1}{6}{Doc-Start}%
+\contentsline {subsection}{Scenario 2}{6}{Doc-Start}%
+\contentsline {subsection}{Scenario 3}{6}{Doc-Start}%
 \contentsline {section}{4. User Stories}{6}{Doc-Start}%
 \contentsline {subsection}{Definition}{6}{Doc-Start}%
 \contentsline {subsection}{User Story 1}{6}{Doc-Start}%
@@ -21,8 +22,8 @@
 \contentsline {subsection}{User Story 4}{6}{Doc-Start}%
 \contentsline {subsection}{User Story 5}{6}{Doc-Start}%
 \contentsline {subsection}{User Story 6}{6}{Doc-Start}%
-\contentsline {section}{5. Prototype}{6}{Doc-Start}%
-\contentsline {subsection}{Definition}{6}{Doc-Start}%
-\contentsline {subsection}{Tools Used}{6}{Doc-Start}%
-\contentsline {subsection}{Media (URLs, Screenshots)}{6}{Doc-Start}%
-\contentsline {section}{6. References}{6}{Doc-Start}%
+\contentsline {section}{5. Prototype}{7}{Doc-Start}%
+\contentsline {subsection}{Definition}{7}{Doc-Start}%
+\contentsline {subsection}{Tools Used}{7}{Doc-Start}%
+\contentsline {subsection}{Media (URLs, Screenshots)}{7}{Doc-Start}%
+\contentsline {section}{6. References}{7}{Doc-Start}%

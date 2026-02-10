@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.1.27)  10 FEB 2026 22:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.1.27)  10 FEB 2026 23:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -536,7 +536,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.26 ...ine {subsection}{Tools Used}{6}{Doc-Start}
+l.26 ...ine {subsection}{Definition}{7}{Doc-Start}
                                                   % [1])
 \tf@toc=\write4
 \openout4 = `main.toc'.
@@ -544,28 +544,23 @@ l.26 ...ine {subsection}{Tools Used}{6}{Doc-Start}
 
 
 [2] (./introduction.tex
-Underfull \hbox (badness 10000) in paragraph at lines 7--9
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 10--12
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 13--15
+Underfull \hbox (badness 10000) in paragraph at lines 15--16
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-
+Underfull \hbox (badness 1448) in paragraph at lines 26--27
+[]\T1/cmr/m/n/10 This com-pre-hen-sive de-sign dis-tin-guishes it-self from the more
  []
 
 
@@ -574,64 +569,85 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--27
  []
 
 
-Underfull \hbox (badness 1448) in paragraph at lines 37--38
-[]\T1/cmr/m/n/10 This com-pre-hen-sive de-sign dis-tin-guishes it-self from the more
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
 
  []
 
+<image/MUA1.png, id=60, 813.0375pt x 1544.01843pt>
+File: image/MUA1.png Graphic file (type png)
+<use image/MUA1.png>
+Package pdftex.def Info: image/MUA1.png  used on input line 34.
+(pdftex.def)             Requested size: 126.83044pt x 240.85178pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
-<image/MUA1.png, id=59, 813.0375pt x 1544.01843pt>
-File: image/MUA1.png Graphic file (type png)
-<use image/MUA1.png>
-Package pdftex.def Info: image/MUA1.png  used on input line 45.
-(pdftex.def)             Requested size: 126.83044pt x 240.85178pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--51
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 52--53
+Underfull \hbox (badness 10000) in paragraph at lines 47--48
 
  []
 
 
 
 [3{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./image/MUA1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
-
- []
-
-<image/xtiles.png, id=76, 3613.5pt x 2409.0pt>
+<image/xtiles.png, id=78, 3613.5pt x 2409.0pt>
 File: image/xtiles.png Graphic file (type png)
 <use image/xtiles.png>
-Package pdftex.def Info: image/xtiles.png  used on input line 67.
+Package pdftex.def Info: image/xtiles.png  used on input line 56.
 (pdftex.def)             Requested size: 451.68915pt x 301.12427pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--73
+Underfull \hbox (badness 10000) in paragraph at lines 60--62
 
  []
 
 
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
 
-[4 <./image/xtiles.png>]) (./personas.tex) (./scenarios.tex) (./userstories.tex
+ []
 
-[5]) (./prototype.tex) (./main.bbl
+
+Underfull \hbox (badness 10000) in paragraph at lines 84--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+
+ []
+
+<image/studo.png, id=81, 1246.6575pt x 2216.28pt>
+File: image/studo.png Graphic file (type png)
+<use image/studo.png>
+Package pdftex.def Info: image/studo.png  used on input line 103.
+(pdftex.def)             Requested size: 126.83044pt x 225.46237pt.
+
+
+[4 <./image/xtiles.png>]) (./personas.tex) (./scenarios.tex
+
+[5 <./image/studo.png>]) (./userstories.tex) (./prototype.tex
+
+[6]) (./main.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 4--6
 []\T1/cmr/m/n/10 M. Uni-ver-sity, ``Maynooth Uni App.'' [][]$\T1/cmtt/m/n/10 https : / / www . maynoothuniversity . ie /
  []
 
-
-
-[6])
+)
 
 [7] (build/main.aux)
  ***********
@@ -640,18 +656,18 @@ L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 20824 strings out of 475171
- 384125 string characters out of 5767095
+ 20832 strings out of 475171
+ 384284 string characters out of 5767095
  764299 words of memory out of 5000000
- 43463 multiletter control sequences out of 15000+600000
+ 43471 multiletter control sequences out of 15000+600000
  569516 words of font info for 51 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  84i,6n,91p,528b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2986.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on build/main.pdf (8 pages, 2842546 bytes).
+Output written on build/main.pdf (8 pages, 3454974 bytes).
 PDF statistics:
- 248 PDF objects out of 1000 (max. 8388607)
- 206 compressed objects within 3 object streams
+ 255 PDF objects out of 1000 (max. 8388607)
+ 211 compressed objects within 3 object streams
  14 named destinations out of 1000 (max. 500000)
- 257 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 270 words of extra memory for PDF output out of 10000 (max. 10000000)
 
