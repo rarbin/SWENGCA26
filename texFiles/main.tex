@@ -53,11 +53,14 @@
     colorlinks=true,
     linkcolor=navy,
     filecolor=magenta,      
-    urlcolor=cyan,
+    urlcolor=navy,
+    citecolor=cyan,
     pdftitle={Project Documentation},
     pdfauthor={Student Name},
     bookmarksopen=true
 }
+
+\setlength{\parindent}{0pt}
 
 
 \begin{document}
@@ -74,7 +77,7 @@
             ($(1cm,-1.5cm)$) rectangle 
             ($(13.6cm,-17cm)$);
    
-        \node[text=white, align=left, font=\fontsize{35}{40}\selectfont\bfseries] 
+        \node[text=white, align=left, font=\fontsize{30}{35}\selectfont\bfseries] 
             at ($(current page.center)+(-0.2,-3cm)$) {SETUP \\ Student Services App};
     
         \node[text=white, align=center, font=\fontsize{20}{20}\selectfont] 
@@ -87,7 +90,7 @@
         \node[text=black, align=center, font=\fontsize{20}{32}\selectfont] 
             at ($(current page.south)+(0cm,4.5cm)$) {Ruby Walsh, Roxanne Lascota, Madison Roche, Rob Venn};
         \node[text=black, align=center, font=\fontsize{20}{32}\selectfont] 
-          at ($(current page.south)+(0cm,3cm)$) {20106647, 20113703, 2011XXXX, 20107681};
+          at ($(current page.south)+(0cm,3cm)$) {20106647, 20113703, 20112525, 20107681};
         
         
     \end{tikzpicture}
@@ -110,5 +113,10 @@
 \input{userstories}
 
 \input{prototype}
+\section*{6. References}
+\addcontentsline{toc}{section}{6. References}
+\renewcommand{\refname}{\vspace*{-\baselineskip}} 
+\bibliographystyle{ieeetr} 
+\bibliography{references} 
 
 \end{document}

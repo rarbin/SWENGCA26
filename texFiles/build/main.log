@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.1.27)  28 JAN 2026 12:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2026.1.27)  10 FEB 2026 19:44
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -429,8 +429,8 @@ Package tocloft Info: The document has section divisions on input line 51.
 ) (/usr/share/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarycalc.code.tex
 File: tikzlibrarycalc.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 60.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 60.
+Package hyperref Info: Option `colorlinks' set `true' on input line 61.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 61.
  (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count309
@@ -438,24 +438,24 @@ File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 ) (build/main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
-LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 66.
+LaTeX Font Info:    ... okay on input line 66.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -510,16 +510,16 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Package hyperref Info: Link coloring ON on input line 63.
+Package hyperref Info: Link coloring ON on input line 66.
 <image/front.png, id=7, 1660.2025pt x 2347.77126pt>
 File: image/front.png Graphic file (type png)
 <use image/front.png>
-Package pdftex.def Info: image/front.png  used on input line 67.
+Package pdftex.def Info: image/front.png  used on input line 70.
 (pdftex.def)             Requested size: 597.49513pt x 901.94234pt.
 <image/setulogo.png, id=8, 263.48438pt x 199.74625pt>
 File: image/setulogo.png Graphic file (type png)
 <use image/setulogo.png>
-Package pdftex.def Info: image/setulogo.png  used on input line 84.
+Package pdftex.def Info: image/setulogo.png  used on input line 87.
 (pdftex.def)             Requested size: 284.52756pt x 215.71054pt.
 
 
@@ -536,36 +536,110 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.26 ...ine {subsection}{Tools Used}{4}{Doc-Start}
+l.26 ...ine {subsection}{Tools Used}{6}{Doc-Start}
                                                   % [1])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
 
 
-[2] (./introduction.tex) (./personas.tex) (./scenarios.tex
+[2] (./introduction.tex
+Underfull \hbox (badness 10000) in paragraph at lines 7--9
 
-[3]) (./userstories.tex) (./prototype.tex)
+ []
 
-[4] (build/main.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--15
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--18
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+
+ []
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 37--38
+[]\T1/cmr/m/n/10 This com-pre-hen-sive de-sign dis-tin-guishes it-self from the more
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
+
+ []
+
+<image/MUA1.png, id=59, 813.0375pt x 1544.01843pt>
+File: image/MUA1.png Graphic file (type png)
+<use image/MUA1.png>
+Package pdftex.def Info: image/MUA1.png  used on input line 45.
+(pdftex.def)             Requested size: 126.83044pt x 240.85178pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 45--47
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--51
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--53
+
+ []
+
+
+
+[3{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc} <./image/MUA1.png>]) (./personas.tex) (./scenarios.tex
+
+[4]) (./userstories.tex) (./prototype.tex
+
+[5]) (./main.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 4--6
+[]\T1/cmr/m/n/10 M. Uni-ver-sity, ``Maynooth Uni App.'' [][]$\T1/cmtt/m/n/10 https : / / www . maynoothuniversity . ie /
+ []
+
+)
+
+[6] (build/main.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 20769 strings out of 475171
- 383261 string characters out of 5767095
- 762143 words of memory out of 5000000
- 43425 multiletter control sequences out of 15000+600000
- 567324 words of font info for 47 fonts, out of 8000000 for 9000
+ 20806 strings out of 475171
+ 383826 string characters out of 5767095
+ 764244 words of memory out of 5000000
+ 43450 multiletter control sequences out of 15000+600000
+ 567976 words of font info for 49 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 84i,6n,91p,471b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx3583.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb>
-Output written on build/main.pdf (5 pages, 150759 bytes).
+ 84i,8n,91p,528b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx2986.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
+Output written on build/main.pdf (7 pages, 1553853 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
- 152 compressed objects within 2 object streams
- 5 named destinations out of 1000 (max. 500000)
- 239 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 218 PDF objects out of 1000 (max. 8388607)
+ 186 compressed objects within 2 object streams
+ 11 named destinations out of 1000 (max. 500000)
+ 252 words of extra memory for PDF output out of 10000 (max. 10000000)
 
