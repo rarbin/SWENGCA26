@@ -252,11 +252,13 @@ INPUT ./introduction.tex
 INPUT ./introduction.tex
 INPUT introduction.tex
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecrm1728.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT ./personas.tex
 INPUT ./personas.tex
 INPUT ./personas.tex
 INPUT ./personas.tex
 INPUT personas.tex
+INPUT c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT ./scenarios.tex
 INPUT ./scenarios.tex
 INPUT ./scenarios.tex

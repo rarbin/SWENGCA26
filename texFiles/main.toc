@@ -1,18 +1,18 @@
 \contentsline {section}{1. Introduction}{3}{Doc-Start}%
 \contentsline {subsection}{Product Vision}{3}{Doc-Start}%
-\contentsline {subsection}{Similar App A [PLACEHOLDER]}{3}{Doc-Start}%
+\contentsline {subsection}{Similar App A - XTiles}{3}{Doc-Start}%
 \contentsline {subsection}{Similar App B [PLACEHOLDER]}{3}{Doc-Start}%
 \contentsline {subsection}{Features}{3}{Doc-Start}%
 \contentsline {section}{2. Personas}{3}{Doc-Start}%
 \contentsline {subsection}{Definition}{3}{Doc-Start}%
 \contentsline {subsection}{Persona 1}{3}{Doc-Start}%
-\contentsline {subsection}{Persona 2}{3}{Doc-Start}%
-\contentsline {subsection}{Persona 3}{3}{Doc-Start}%
-\contentsline {section}{3. Scenarios}{3}{Doc-Start}%
-\contentsline {subsection}{Definition}{3}{Doc-Start}%
-\contentsline {subsection}{Scenario 1}{3}{Doc-Start}%
-\contentsline {subsection}{Scenario 2}{3}{Doc-Start}%
-\contentsline {subsection}{Scenario 3}{3}{Doc-Start}%
+\contentsline {subsection}{Persona 2}{4}{Doc-Start}%
+\contentsline {subsection}{Persona 3}{4}{Doc-Start}%
+\contentsline {section}{3. Scenarios}{4}{Doc-Start}%
+\contentsline {subsection}{Definition}{4}{Doc-Start}%
+\contentsline {subsection}{Scenario 1}{4}{Doc-Start}%
+\contentsline {subsection}{Scenario 2}{4}{Doc-Start}%
+\contentsline {subsection}{Scenario 3}{4}{Doc-Start}%
 \contentsline {section}{4. User Stories}{4}{Doc-Start}%
 \contentsline {subsection}{Definition}{4}{Doc-Start}%
 \contentsline {subsection}{User Story 1}{4}{Doc-Start}%
@@ -21,7 +21,7 @@
 \contentsline {subsection}{User Story 4}{4}{Doc-Start}%
 \contentsline {subsection}{User Story 5}{4}{Doc-Start}%
 \contentsline {subsection}{User Story 6}{4}{Doc-Start}%
-\contentsline {section}{5. Prototype}{4}{Doc-Start}%
-\contentsline {subsection}{Definition}{4}{Doc-Start}%
-\contentsline {subsection}{Tools Used}{4}{Doc-Start}%
-\contentsline {subsection}{Media (URLs, Screenshots)}{4}{Doc-Start}%
+\contentsline {section}{5. Prototype}{5}{Doc-Start}%
+\contentsline {subsection}{Definition}{5}{Doc-Start}%
+\contentsline {subsection}{Tools Used}{5}{Doc-Start}%
+\contentsline {subsection}{Media (URLs, Screenshots)}{5}{Doc-Start}%
