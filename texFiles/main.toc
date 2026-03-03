@@ -17,9 +17,9 @@
 \contentsline {subsection}{Scenario 3}{8}{Doc-Start}%
 \contentsline {section}{4. User Stories}{8}{Doc-Start}%
 \contentsline {subsection}{Definition}{8}{Doc-Start}%
-\contentsline {subsection}{User Story 1}{8}{Doc-Start}%
-\contentsline {subsection}{User Story 2}{8}{Doc-Start}%
-\contentsline {subsection}{User Story 3}{8}{Doc-Start}%
+\contentsline {subsection}{User Story 1}{9}{Doc-Start}%
+\contentsline {subsection}{User Story 2}{9}{Doc-Start}%
+\contentsline {subsection}{User Story 3}{9}{Doc-Start}%
 \contentsline {subsection}{User Story 4}{9}{Doc-Start}%
 \contentsline {subsection}{User Story 5}{9}{Doc-Start}%
 \contentsline {subsection}{User Story 6}{9}{Doc-Start}%
