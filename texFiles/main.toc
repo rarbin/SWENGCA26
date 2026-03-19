@@ -23,8 +23,8 @@
 \contentsline {subsection}{User Story 4}{9}{Doc-Start}%
 \contentsline {subsection}{User Story 5}{9}{Doc-Start}%
 \contentsline {subsection}{User Story 6}{9}{Doc-Start}%
-\contentsline {section}{5. Prototype}{9}{Doc-Start}%
-\contentsline {subsection}{Definition}{9}{Doc-Start}%
-\contentsline {subsection}{Tools Used}{9}{Doc-Start}%
-\contentsline {subsection}{Media (URLs, Screenshots)}{9}{Doc-Start}%
-\contentsline {section}{6. References}{9}{Doc-Start}%
+\contentsline {section}{5. Prototype}{10}{Doc-Start}%
+\contentsline {subsection}{Definition}{10}{Doc-Start}%
+\contentsline {subsection}{Tools Used}{10}{Doc-Start}%
+\contentsline {subsection}{Media (URLs, Screenshots)}{10}{Doc-Start}%
+\contentsline {section}{6. References}{10}{Doc-Start}%
