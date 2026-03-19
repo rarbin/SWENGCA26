@@ -8,22 +8,22 @@
 \contentsline {subsection}{Definition}{7}{Doc-Start}%
 \contentsline {subsection}{Persona 2}{8}{Doc-Start}%
 \contentsline {subsection}{Persona 3}{8}{Doc-Start}%
-\contentsline {subsection}{Persona 4}{8}{Doc-Start}%
+\contentsline {subsection}{Persona 4}{9}{Doc-Start}%
 \contentsline {section}{3. Scenarios}{9}{Doc-Start}%
 \contentsline {subsection}{Definition}{9}{Doc-Start}%
 \contentsline {subsection}{Scenario 1}{9}{Doc-Start}%
 \contentsline {subsection}{Scenario 2}{9}{Doc-Start}%
-\contentsline {subsection}{Scenario 3}{9}{Doc-Start}%
-\contentsline {section}{4. User Stories}{9}{Doc-Start}%
-\contentsline {subsection}{Definition}{9}{Doc-Start}%
-\contentsline {subsection}{User Story 1}{9}{Doc-Start}%
-\contentsline {subsection}{User Story 2}{9}{Doc-Start}%
-\contentsline {subsection}{User Story 3}{9}{Doc-Start}%
-\contentsline {subsection}{User Story 4}{9}{Doc-Start}%
-\contentsline {subsection}{User Story 5}{9}{Doc-Start}%
-\contentsline {subsection}{User Story 6}{9}{Doc-Start}%
-\contentsline {section}{5. Prototype}{10}{Doc-Start}%
+\contentsline {subsection}{Scenario 3}{10}{Doc-Start}%
+\contentsline {section}{4. User Stories}{10}{Doc-Start}%
 \contentsline {subsection}{Definition}{10}{Doc-Start}%
-\contentsline {subsection}{Tools Used}{10}{Doc-Start}%
-\contentsline {subsection}{Media (URLs, Screenshots)}{10}{Doc-Start}%
-\contentsline {section}{6. References}{10}{Doc-Start}%
+\contentsline {subsection}{User Story 1}{10}{Doc-Start}%
+\contentsline {subsection}{User Story 2}{10}{Doc-Start}%
+\contentsline {subsection}{User Story 3}{11}{Doc-Start}%
+\contentsline {subsection}{User Story 4}{11}{Doc-Start}%
+\contentsline {subsection}{User Story 5}{11}{Doc-Start}%
+\contentsline {subsection}{User Story 6}{11}{Doc-Start}%
+\contentsline {section}{5. Prototype}{11}{Doc-Start}%
+\contentsline {subsection}{Definition}{11}{Doc-Start}%
+\contentsline {subsection}{Tools Used}{11}{Doc-Start}%
+\contentsline {subsection}{Media (URLs, Screenshots)}{11}{Doc-Start}%
+\contentsline {section}{6. References}{11}{Doc-Start}%
