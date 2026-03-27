@@ -24,10 +24,12 @@
 \contentsline {subsection}{User Story 2}{12}{Doc-Start}%
 \contentsline {subsection}{User Story 3}{12}{Doc-Start}%
 \contentsline {subsection}{User Story 4}{12}{Doc-Start}%
-\contentsline {subsection}{User Story 5}{12}{Doc-Start}%
-\contentsline {subsection}{User Story 6}{12}{Doc-Start}%
-\contentsline {section}{5. Prototype}{12}{Doc-Start}%
-\contentsline {subsection}{Definition}{12}{Doc-Start}%
-\contentsline {subsection}{Tools Used}{12}{Doc-Start}%
-\contentsline {subsection}{Media (URLs, Screenshots)}{12}{Doc-Start}%
-\contentsline {section}{6. References}{12}{Doc-Start}%
+\contentsline {subsection}{User Story 5}{13}{Doc-Start}%
+\contentsline {subsection}{User Story 6}{13}{Doc-Start}%
+\contentsline {subsection}{User Story 6}{13}{Doc-Start}%
+\contentsline {subsection}{User Story 6}{13}{Doc-Start}%
+\contentsline {section}{5. Prototype}{13}{Doc-Start}%
+\contentsline {subsection}{Definition}{13}{Doc-Start}%
+\contentsline {subsection}{Tools Used}{13}{Doc-Start}%
+\contentsline {subsection}{Media (URLs, Screenshots)}{14}{Doc-Start}%
+\contentsline {section}{6. References}{14}{Doc-Start}%
