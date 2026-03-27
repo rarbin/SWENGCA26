@@ -1,14 +1,14 @@
 # Fdb version 4
-["bibtex main"] 1773962522.58556 "main.aux" "main.bbl" "main" 1773962528.21042 0
+["bibtex main"] 1774572087.15137 "main.aux" "main.bbl" "main" 1774572092.6233 0
   "./references.bib" 1770999007 1419 4dd4794b8c578d782e7d41673e61460d ""
   "c:/texlive/2025/texmf-dist/bibtex/bst/base/ieeetr.bst" 1761411058 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
-  "main.aux" 1773962526 9295 cc7e8c5029cfe05c18faa1c861083d2e "pdflatex"
+  "main.aux" 1774572091 10403 90a7c3c1b8c6b15083a9c5bc87debf27 "pdflatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1773962523.15307 "c:/Users/35389/Documents/SecureScripting/SWENGCA26/texFiles/main.tex" "main.pdf" "main" 1773962528.21177 0
-  "c:/Users/35389/Documents/SecureScripting/SWENGCA26/texFiles/main.tex" 1773962338 3565 e06bc86c98cc0e33c70291dd29e647dd ""
+["pdflatex"] 1774572087.71027 "c:/Users/35389/Documents/SecureScripting/SWENGCA26/texFiles/main.tex" "main.pdf" "main" 1774572092.62415 0
+  "c:/Users/35389/Documents/SecureScripting/SWENGCA26/texFiles/main.tex" 1774565229 3588 2ee5d9f4ee5c383d20ab50a0e8e24ead ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1761411394 2971 def0b6c1f0b107b3b936def894055589 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1761411394 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1761412324 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -145,6 +145,7 @@
   "c:/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgffor.sty" 1761414242 348 ee405e64380c11319f0e249fed57e6c5 ""
   "c:/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty" 1761414242 274 5ae372b7df79135d240456a1c6f2cf9a ""
   "c:/texlive/2025/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty" 1761414242 325 f9f16d12354225b7dd52a3321f085955 ""
+  "c:/texlive/2025/texmf-dist/tex/latex/placeins/placeins.sty" 1761414326 4087 636308456f60d2b31cbf97867db5708d ""
   "c:/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty" 1761414747 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "c:/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1761414770 9684 a33a14b82ce60d6e77cb9be689d79ee6 ""
   "c:/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty" 1761414977 22490 8cac309b79a4c53a4ffce4b1b07aead0 ""
@@ -163,17 +164,19 @@
   "image/icon1.png" 1773962095 600561 06a093c5554c168a57b0981f999d5f6b ""
   "image/icon2.png" 1773962104 764776 b95d573b98208c85cf20ada2652ae117 ""
   "image/icon3.png" 1773962119 443162 bcfcbe85c02ff9df778bbbc514073939 ""
+  "image/icon4.png" 1774563909 393390 6b80e3a164113a9d0ba1383d982642a1 ""
+  "image/icon5.png" 1774565757 519908 6a484af7d4659411a06b1100a0035f6c ""
   "image/setulogo.png" 1770999007 12457 c10b460c2b1457ff397c9efbbf8c4591 ""
   "image/studo.png" 1770999007 721256 da48b47b56b2c83a6107bf16b7b0fa7d ""
   "image/xtiles.png" 1770999007 1561737 8fc778e39e6971737f1a5dc174d58773 ""
   "introduction.tex" 1772139078 13474 6b137a37153b53a90a94ec0e3c99b64a ""
-  "main.aux" 1773962526 9295 cc7e8c5029cfe05c18faa1c861083d2e "pdflatex"
-  "main.bbl" 1773962523 860 4799c9cd4ae086250dcf1533df568a54 "bibtex main"
-  "main.tex" 1773962338 3565 e06bc86c98cc0e33c70291dd29e647dd ""
-  "main.toc" 1773962526 1622 17da8dd1307578e90c8a71c49250b6d3 "pdflatex"
-  "personas.tex" 1773962489 5644 7736973937b6db02d130a145e9e982d8 ""
+  "main.aux" 1774572091 10403 90a7c3c1b8c6b15083a9c5bc87debf27 "pdflatex"
+  "main.bbl" 1774572087 860 4799c9cd4ae086250dcf1533df568a54 "bibtex main"
+  "main.tex" 1774565229 3588 2ee5d9f4ee5c383d20ab50a0e8e24ead ""
+  "main.toc" 1774572091 1842 3345ebf35bea3b2b29972743b61deaee "pdflatex"
+  "personas.tex" 1774569299 7829 5ee4a11350d096cea6c15b19016b6736 ""
   "prototype.tex" 1770999007 521 f8d2c849679a1086b112c5d0d6cf4fca ""
-  "scenarios.tex" 1773962516 4903 7509263037fff7d2a569fcabbbd98165 ""
+  "scenarios.tex" 1774572081 7067 3b99b4e16573ab2aba95d0c1b28f540e ""
   "userstories.tex" 1770999007 699 2b860f54358f67103074573da4ff296c ""
   (generated)
   "main.aux"
