@@ -7,29 +7,29 @@
 \contentsline {section}{2. Personas}{7}{Doc-Start}%
 \contentsline {subsection}{Definition}{7}{Doc-Start}%
 \contentsline {subsection}{Persona 2}{8}{Doc-Start}%
-\contentsline {subsection}{Persona 3}{8}{Doc-Start}%
-\contentsline {subsection}{Persona 3}{9}{Doc-Start}%
-\contentsline {subsection}{Persona 4}{9}{Doc-Start}%
-\contentsline {subsection}{Persona 5}{9}{Doc-Start}%
-\contentsline {section}{3. Scenarios}{10}{Doc-Start}%
-\contentsline {subsection}{Definition}{10}{Doc-Start}%
-\contentsline {subsection}{Scenario 1}{10}{Doc-Start}%
-\contentsline {subsection}{Scenario 2}{10}{Doc-Start}%
-\contentsline {subsection}{Scenario 3}{11}{Doc-Start}%
-\contentsline {subsection}{Scenario 4}{11}{Doc-Start}%
-\contentsline {subsection}{Scenario 4}{11}{Doc-Start}%
-\contentsline {section}{4. User Stories}{12}{Doc-Start}%
-\contentsline {subsection}{Definition}{12}{Doc-Start}%
-\contentsline {subsection}{User Story 1}{12}{Doc-Start}%
-\contentsline {subsection}{User Story 2}{12}{Doc-Start}%
-\contentsline {subsection}{User Story 3}{12}{Doc-Start}%
-\contentsline {subsection}{User Story 4}{12}{Doc-Start}%
-\contentsline {subsection}{User Story 5}{13}{Doc-Start}%
-\contentsline {subsection}{User Story 6}{13}{Doc-Start}%
-\contentsline {subsection}{User Story 6}{13}{Doc-Start}%
-\contentsline {subsection}{User Story 6}{13}{Doc-Start}%
-\contentsline {section}{5. Prototype}{13}{Doc-Start}%
-\contentsline {subsection}{Definition}{13}{Doc-Start}%
-\contentsline {subsection}{Tools Used}{13}{Doc-Start}%
-\contentsline {subsection}{Media (URLs, Screenshots)}{14}{Doc-Start}%
-\contentsline {section}{6. References}{14}{Doc-Start}%
+\contentsline {subsection}{Persona 3}{8}{figure.caption.1}%
+\contentsline {subsection}{Persona 3}{9}{figure.caption.2}%
+\contentsline {subsection}{Persona 4}{9}{figure.caption.3}%
+\contentsline {subsection}{Persona 5}{9}{figure.caption.4}%
+\contentsline {section}{3. Scenarios}{10}{figure.caption.5}%
+\contentsline {subsection}{Definition}{10}{figure.caption.5}%
+\contentsline {subsection}{Scenario 1}{10}{figure.caption.5}%
+\contentsline {subsection}{Scenario 2}{10}{figure.caption.5}%
+\contentsline {subsection}{Scenario 3}{11}{figure.caption.5}%
+\contentsline {subsection}{Scenario 4}{11}{figure.caption.5}%
+\contentsline {subsection}{Scenario 4}{11}{figure.caption.5}%
+\contentsline {section}{4. User Stories}{12}{figure.caption.5}%
+\contentsline {subsection}{Definition}{12}{figure.caption.5}%
+\contentsline {subsection}{User Story 1}{12}{figure.caption.5}%
+\contentsline {subsection}{User Story 2}{12}{figure.caption.5}%
+\contentsline {subsection}{User Story 3}{12}{figure.caption.5}%
+\contentsline {subsection}{User Story 4}{12}{figure.caption.5}%
+\contentsline {subsection}{User Story 5}{13}{figure.caption.5}%
+\contentsline {subsection}{User Story 6}{13}{figure.caption.5}%
+\contentsline {subsection}{User Story 6}{13}{figure.caption.5}%
+\contentsline {subsection}{User Story 6}{13}{figure.caption.5}%
+\contentsline {section}{5. Prototype}{13}{figure.caption.5}%
+\contentsline {subsection}{Definition}{13}{figure.caption.5}%
+\contentsline {subsection}{Tools Used}{14}{figure.caption.5}%
+\contentsline {subsection}{Media (Screenshots)}{14}{figure.caption.5}%
+\contentsline {section}{6. References}{16}{figure.caption.7}%
