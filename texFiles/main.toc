@@ -28,8 +28,13 @@
 \contentsline {subsection}{User Story 6}{13}{figure.caption.5}%
 \contentsline {subsection}{User Story 6}{13}{figure.caption.5}%
 \contentsline {subsection}{User Story 6}{13}{figure.caption.5}%
-\contentsline {section}{5. Prototype}{13}{figure.caption.5}%
-\contentsline {subsection}{Definition}{13}{figure.caption.5}%
-\contentsline {subsection}{Tools Used}{14}{figure.caption.5}%
-\contentsline {subsection}{Media (Screenshots)}{14}{figure.caption.5}%
-\contentsline {section}{6. References}{16}{figure.caption.7}%
+\contentsline {subsection}{Features}{14}{figure.caption.5}%
+\contentsline {section}{6. Diagrams}{16}{figure.caption.5}%
+\contentsline {subsection}{Use Case Diagram}{16}{figure.caption.5}%
+\contentsline {subsection}{Activity Diagram}{17}{figure.caption.6}%
+\contentsline {subsection}{Class Diagram}{18}{figure.caption.7}%
+\contentsline {section}{7. Prototype}{19}{figure.caption.8}%
+\contentsline {subsection}{Definition}{19}{figure.caption.8}%
+\contentsline {subsection}{Tools Used}{19}{figure.caption.8}%
+\contentsline {section}{8. References}{23}{figure.caption.10}%
+\contentsline {section}{9. Appendix}{23}{figure.caption.10}%

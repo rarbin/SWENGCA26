@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: ieeetr.bst
+Database file #1: references.bib
+Warning--entry type for "MUA" isn't style-file defined
+--line 1 of file references.bib
+Warning--entry type for "GPM" isn't style-file defined
+--line 19 of file references.bib
+Warning--entry type for "xtiles" isn't style-file defined
+--line 55 of file references.bib
+Warning--entry type for "xtrev" isn't style-file defined
+--line 75 of file references.bib
+Warning--entry type for "studo" isn't style-file defined
+--line 91 of file references.bib
+You've used 5 entries,
+            1876 wiz_defined-function locations,
+            500 strings with 3979 characters,
+and the built_in function-call counts, 712 in all, are:
+= -- 70
+> -- 20
+< -- 0
++ -- 10
+- -- 5
+* -- 37
+:= -- 111
+add.period$ -- 10
+call.type$ -- 5
+change.case$ -- 5
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 20
+empty$ -- 91
+format.name$ -- 5
+if$ -- 176
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 0
+newline$ -- 23
+num.names$ -- 5
+pop$ -- 30
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 15
+stack$ -- 0
+substring$ -- 0
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 5
+width$ -- 6
+write$ -- 52
+(There were 5 warnings)

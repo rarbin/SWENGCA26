@@ -1,65 +1,299 @@
-\section*{5. Prototype}
-\addcontentsline{toc}{section}{5. Prototype}
+\pagebreak \section*{5. Revised Features}
+\addcontentsline{toc}{subsection}{Features}
+We consolidated the features list into a clearer selection for the purposes of our prototype. Features were broken down into 'demo pages'. All sections will have a navigation bar at the bottom to navigate between moodle, the home page and an inbox integrated with a user's email account.\\
+
+
+\textbf{Home Page}\\
+What features we considered most important to access upfront. Access to info such as university news or services would be placed into their own dedicated widgets.
+\begin{itemize}
+  \item \textit{News}\\
+        Latest updates and relevant information pertaining to the university.
+  \item \textit{Clubs \& Societies}\\
+        Featured clubs and societies, if a user was logged in, display presently joined clubs/societies, particular updates to those clubs or societies within this widget.
+  \item \textit{Supports \ Serviecs}\\
+        Allow users to access university support services/utilities, grants \& fee management. 
+  \end{itemize}
+
+
+\textbf{Navigation Pane}\\
+Easy navigation across all site features.
+\begin{itemize}
+  \item \textit{Academic Calendar}\\
+      Relevant university events, allow editing for individual students to add their own information similar to a study planner.
+  \item \textit{Course Timetable}\\
+         Timetable provided based on the details of a logged in user, shows various module assignment dates, exams, etc.
+  \item \textit{News \& Events}\\
+        Expanded News and Events section for subjects relating to university or associated clubs \& society events.
+  \item \textit{To-Do List/Notes Tool}\\
+         Utility for quick notes, tracking of various deadlines set by Moodle, templates for study schedules.
+  \item \textit{Transport Schedules}\\
+        Bus/train commute info, could be integrated with services such as TFI.
+  \item \textit{Library}\\
+        Options to reserve/renew loaned books, organise study pods, check opening hours, etc.
+  \item \textit{Campus Map}\\
+        Integrated Google Map of the SETU campus, options to add custom markers, notes, etc. to buildings.
+   \item \textbf{Support Services} \\
+        University support services/utilities, grants \& fee management. 
+  \end{itemize}
+
+
+\textbf{Built-In Calendar}\\
+Full, user-specific customisable calendar utility, 
+\begin{itemize}
+  \item \textit{Semester Period}\\
+        Display current semester and exam period, allow user to look ahead to future months or review progress in previous.
+  \item \textit{Event Maker}\\
+        Allow users to add their own events and colour code as preferred.
+  \item \textit{Offline Access}\\
+        Save calendar events and schedule to user device.
+  \end{itemize}
+  
+  
+\textbf{Course Timetable}\\
+Review SETU Timetable in relation to logged-in user course, if applicable.
+\begin{itemize}
+  \item \textit{Timetable Details}\\
+        Display user programme, student group and department. If user is a guest, possible to display an orientation days select events instead.
+  \item \textit{Weekly Timetable}\\
+        Timetable colour coded by lecture or lab, updated automatically in sync with similar purpose website SETU timetable.
+  \item \textit{Offline Access}\\
+        Save or adapt existing timetable by user session. 
+  \end{itemize}
+
+
+\textbf{News \& Events}\\
+     Informational section for subjects relating to university or associated clubs \& society events.
+\begin{itemize}
+  \item \textit{Search}\\
+        Search for articles or events by specific keywords, headings, etc.
+  \item \textit{Filter}\\
+       Filter by news/article category, e.g. academic, society related, etc.
+  \item \textit{Real-time Notifications}\\
+       Allow users to opt in to following particular events/articles 
+  \end{itemize}
+
+\textbf{To-Do Notes}\\
+     Utility for quick notes, saved to user device.
+\begin{itemize}
+  \item \textit{Search}\\
+        Search for notes by specific keywords, headings, etc.
+  \item \textit{Filter}\\
+       Filter by colour coding, subject, etc.
+  \item \textit{Moodle Integration}\\
+       Allow relevant Moodle notes to be saved to user's to-do list.
+  \end{itemize}
+
+\textbf{Settings}\\
+     Various accessibility, notification and general preference user settings.
+\begin{itemize}
+  \item \textit{Vision Accessibility}\\
+       Low vision, colour blind and screen reader support settings.
+  \item \textit{Notification}\\
+       Enable push notification, select what kinds of notifications to allow and/or enable Do Not Disturb (DND) between specific hours.
+  \end{itemize}
+
+
+\textbf{Integrated Inbox}\\
+    Allow users to connect several email accounts, e.g. outlook, gmail, to the one inbox.
+\begin{itemize}
+  \item \textit{Sort}\\
+        Search for notes by specific keywords, headings, etc.
+  \item \textit{Filter}\\
+       Filter by colour coding, subject, etc.
+  \item \textit{Moodle Integration}\\
+       Allow relevant Moodle notes to be saved to user's to-do list.
+  \end{itemize}
+
+
+\textbf{User Experience}\\
+Overall considerations for user experience remains unchanged from initial features list.
+\begin{itemize}
+  \item \textit{Intuitive Design}\\
+        Menus and layout should be concise and visually clear. Integrated first or third-party features should not be unnecessarily bloated or redundant.
+  \item \textit{Cross-Platform Sync}\\
+        Sync a user across devices, (desktop, phone, etc.) and the SETU website when internet is available.
+  \item \textit{Offline Access}\\
+        Allow users to save info such as timetables, lab results, etc. for use offline.
+  \item \textit{Feedback \& Reports}\\
+        Users should be able to report bugs, criticism or suggestions on improving the app.
+  \item \textit{Accessibility Tools}\\
+       Settings for low-vision, colour-blind, screen-readers, etc. 
+  \item \textit{Free and Efficient}\\
+       Assuming development is supported by SETU, advertisements or paid premium memberships should not be expected. Exceptions for society memberships, student tuition fees.
+  \item \textit{Real-time Notifications}\\
+       Users may opt-in to various push notifications, updates, etc.
+   \item \textit{GDPR compliant; data secure}\\
+       Use of 2FA, privacy options, secure cloud storage handled by services like Cloudflare, Google Drive. Payment services also trusted to a third party such as stripe/google pay.
+  \end{itemize}
+
+\nopagebreak
+
+\section*{6. Diagrams}
+\addcontentsline{toc}{section}{6. Diagrams}
+
+\subsection*{Use Case Diagram}
+\addcontentsline{toc}{subsection}{Use Case Diagram}
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.7\textwidth,keepaspectratio]{image/usecase.png}
+\caption{Use Case Diagram}
+\label{fig:usecase}
+\end{figure}
+\vspace*{-1.2cm}
+
+\subsection*{Activity Diagram}
+\addcontentsline{toc}{subsection}{Activity Diagram}
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.7\textwidth,keepaspectratio]{image/activity.png}
+\caption{Activity Diagram}
+\label{fig:activity}
+\end{figure}
+\vspace*{-1.2cm}
+
+\subsection*{Class Diagram}
+\addcontentsline{toc}{subsection}{Class Diagram}
+\begin{figure}[H]
+\centering
+\includegraphics[width=0.9\textwidth,keepaspectratio]{image/class.png}
+\caption{Class Diagram}
+\label{fig:class}
+\end{figure}
+
+\pagebreak
+
+\section*{7. Prototype}
+\addcontentsline{toc}{section}{7. Prototype}
 
 
 \subsection*{Definition}
 \addcontentsline{toc}{subsection}{Definition}
-A prototype is an early example or model of a product used to view and test visual concepts, processes, and designs.
+A prototype is an early example or model of a product used to view and test visual concepts, processes, and design approaches. Alterating, iterating and demonstrating features at this stage of development is significantly less costly on project resources, and allows for better communication between developers and clients.
 
 \subsection*{Tools Used}
 \addcontentsline{toc}{subsection}{Tools Used}
- To build our prototype, Canva was used. Canva is very simple to use and has a beginner-friendly set up and layout of features making it easy to work quickly and efficiently. There are also a lot of free sources on the platform that allow for easy insert into designs and layouts. Overall, we decided to pull the colour theme from SETU itself and overall, it was fun to experiment with the layouts, colours, designs, fonts, and anything else that went into the process of making the prototype.
+\textbf{Canva}\\
+Canva was selected to build our proof of concept user interface. Its toolset allowed for a straight forward and intuitive demonstration of SETUP app's features. Visual design elements in  SETU's website colour palette and fonts were implemented here for consistentcy between SETU products and platforms.\\
+
+Overall, Canva allowed us to experiment with the various layouts, colours, fonts and general design approach that went into the process of creating the prototype.
+
+
+
 
 \subsection*{Media (Screenshots)}
-\addcontentsline{toc}{subsection}{Media (Screenshots)}
-
 \begin{figure}[H]
 \centering
-
 \setlength{\abovecaptionskip}{2pt}
 \setlength{\belowcaptionskip}{2pt}
 
-\begin{subfigure}{0.45\textwidth}
-    \includegraphics[width=\linewidth,height=15cm,keepaspectratio]{image/home page.png}
+\begin{subfigure}[b]{0.45\textwidth}
+    \centering
+    \includegraphics[width=\linewidth,height=8cm,keepaspectratio]{image/home page.png}
     \caption{Home Page}
 \end{subfigure}
 \hfill
-\begin{subfigure}{0.45\textwidth}
-    \includegraphics[width=\linewidth,height=15cm,keepaspectratio]{image/navigation page.png}
+\begin{subfigure}[b]{0.45\textwidth}
+    \centering
+    \includegraphics[width=\linewidth,height=8cm,keepaspectratio]{image/navigation page.png}
     \caption{Navigation Panel}
 \end{subfigure}
 
+\caption{Main Navigation Screens}
 \end{figure}
 
 \begin{figure}[H]
 \centering
-
 \setlength{\abovecaptionskip}{2pt}
 \setlength{\belowcaptionskip}{2pt}
 
-\begin{subfigure}{0.45\textwidth}
-    \includegraphics[width=\linewidth,height=15cm,keepaspectratio]{image/calendar.png}
+\begin{subfigure}[b]{0.45\textwidth}
+    \centering
+    \includegraphics[width=\linewidth,height=7cm,keepaspectratio]{image/calendar.png}
     \caption{Built-In Calendar}
 \end{subfigure}
 \hfill
-\begin{subfigure}{0.45\textwidth}
-    \includegraphics[width=\linewidth,height=15cm,keepaspectratio]{image/course timetable.png}
+\begin{subfigure}[b]{0.45\textwidth}
+    \centering
+    \includegraphics[width=\linewidth,height=7cm,keepaspectratio]{image/course timetable.png}
     \caption{Course Timetable}
 \end{subfigure}
 
-\vspace{0.2cm}
+\vspace{0.4cm}
 
-\begin{subfigure}{0.45\textwidth}
-    \includegraphics[width=\linewidth,height=15cm,keepaspectratio]{image/news and events page.png}
+\begin{subfigure}[b]{0.45\textwidth}
+    \centering
+    \includegraphics[width=\linewidth,height=7cm,keepaspectratio]{image/news and events page.png}
     \caption{News and Events}
 \end{subfigure}
 \hfill
-\begin{subfigure}{0.45\textwidth}
-    \includegraphics[width=\linewidth,height=15cm,keepaspectratio]{image/to do page.png}
+\begin{subfigure}[b]{0.45\textwidth}
+    \centering
+    \includegraphics[width=\linewidth,height=7cm,keepaspectratio]{image/to do page.png}
     \caption{To-Do Notes}
 \end{subfigure}
 
-\caption{Application Interface Screens}
-\end{figure}
+\begin{subfigure}[b]{0.45\textwidth}
+    \centering
+    \includegraphics[width=\linewidth,height=8cm,keepaspectratio]{image/settings.png}
+    \caption{Settings Menu}
+\end{subfigure}
+\hfill
+\begin{subfigure}[b]{0.45\textwidth}
+    \centering
+    \includegraphics[width=\linewidth,height=8cm,keepaspectratio]{image/inbox.png}
+    \caption{Integrated Mail Inbox}
+\end{subfigure}
+\caption{Feature Screens}
 
+
+\end{figure}
 \FloatBarrier
+\subsection*{Personal Reflections}
+\subsection*{Madison Roche 20112525}
+My most significant contribution to the project were the JUnit Tests and the Prototype examples. We shared most roles between the four of our team members but as we neared the end of the project we took on separate parts to speed up the ending process.\\
+
+One challenge we faced was dealing with time management issues. Although the deadlines are quite spread out usually having a week or two between each, we still found ourselves leaving most sections until the day before to fully flesh out and upload. We started to make our own deadlines so we could have the work done a couple of days before hand, leaving a day or two before the deadline to add or clean-up any issues or mistakes with the documents. \\
+
+One important process decision we made was to divide the work more clearly toward the end of the project, with each team member taking over a certain part of the project. This helped speed our process up and made the final stages of the document more efficient. It did mean that we had less collaboration overall which can cause limited understanding but allows us to work on what we know best.\\
+
+In a future project, I would focus on keeping a consistent chain of progress from the beginning rather than leaving it fall behind and become work for the day before. Even though we introduced earlier deadlines for ourselves, starting tasks sooner than later and spreading the workload more evenly may have reduced any worries and could've improved the quality of the work even more. I think it'd also allow for more refinement of other sections and parts too.\\
+
+\subsection*{Ruby Walsh 20106647}
+Reflecting on the group project, I both enjoyed the process and learned something new. My role in the project was contributing to writing/documenting such as writing app features and user stories. Clear documentation was necessary for communicating what our app was and how it worked, and usually the work was shared between the four of us or sometimes the tasks would be split between two at a time. I liked how each weekly task involved collaborating with my teammates as we could bounce ideas off each other and ask questions if there was any uncertainty.\\
+
+I liked both learning and experiencing how an app goes from an idea to a finished prototype as I had never been that involved in the making of an app before, so it was a new experience and I enjoyed learning how everything comes together for the first time. I think it made a difference that I worked on the app with my friends as we were able to give our opinions, ideas and ask questions without feeling too awkward to give any input on what features you would like to be included in the app, etc.\\
+
+One challenge was working with latex, as I had no prior experience with it. I found it difficult to navigate, so I ended up sending all of my work to my friends to be uploaded each week. While we got the job done, it was a process decision that affected how I was able to contribute to the project. \\
+
+In a future project, I would make sure I am familiar with the tools being used so I can contribute more independently, without having to rely on teammates to submit my work for me. \\
+
+\subsection*{Rob Venn 20107681}
+My primary contribution to the project was compiling team members work to each draft and final version of the assignment, while relaying and adapting to feedback provided. I found all team members contributed fairly in this process, and I personally enjoyed formatting and adapting work where necessary to make the project feel more cohesive.\\
+
+While I preference Latex editor as a word processing environment for this project, I regret not better communicating and ensuring all team members were comfrotable with its use before committing to it. Parts that would otherwise be merged by git repo from members were, on occasison, manually added to the main branch due to confusion with the latex process. I'll avoid future projects running into this challenge by ensuring better upfront communication which I now have the foresight to give. \\
+
+I thought it was fortunate that each team member found a different aspect of the project they preferred working on, especially near the end. We were able to delegate work in a method where by all members generally enjoyed their part of the process. My teammates were always fun to work with. :3\\
+
+In future, while I enjoy taking on an organisational role, I would like to work on a communication style that ensures less confusion or potential stress during parts of the process. \\
+
+\subsection*{Roxanne Lascota 20113703}
+My primary role in the project was to document and write up about an example of an app for the project, creating user scenarios and user stories. Everyone 
+in the group separated the work equally and sometimes there would be two people working on the same section to help each other out.\\
+I also contributed to making the UML diagrams such as the class diagram and activity diagram. I've learned how to use Visual Paradigm to create the diagrams.
+Creating the user scenarios and user stories were fun to do as it allowed me to be creative and think about how the app would be used in real life.\\
+
+Our biggest challenge was keeping the group on track and keeping everyone consistent with the work.
+We addressed this by chatting with each other on a regular basis on Discord and making sure that we get the work done before the deadline. It was difficult to keep on track as everyone has different schedules and there would be exams and other assignments to do, 
+but we managed to get the work done on time. \\
+
+Choosing Latex as our documentation tool was a learning experience.For myself, Latex was a new tool that I rarely used before, especially using it in VSCode while connected to GitHub. 
+The start-up was difficult as I was unfamiliar with the syntax and spent a lot of time trying to figure out things. But one of my group members had experience with Latex and helped me out with the syntax and how to use it.\\
+
+Once I got passed the learning curve, I found it to be very useful and professional for documentation. It allowed us to create a well-structured and formatted document that looks great. I also learned how to use GitHub to 
+collaborate with my group members and keep track of the changes we made to the document.\\
+
+In the future project I would like to improve my time management skills and communication with my group members. I think that would help us to keep on track and make sure 
+that everyone is on the same page with the work. I also want to learn more about Latex and how to use it more efficiently for documentation. 
+Overall, I enjoyed working on this project and learned a lot from it.
+
+\pagebreak
