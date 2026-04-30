@@ -1,0 +1,278 @@
+public class Application {
+    private String moduleName;
+    private String lecturerName;
+    private String courseID;
+    private int courseYear;
+
+    public Application(String moduleName, String lecturerName, String courseID, int courseYear) {
+        this.moduleName = moduleName;
+        this.lecturerName = lecturerName;
+        this.courseID = courseID;
+        this.courseYear = courseYear;
+    }
+
+    public String getModuleName() {
+        return moduleName;
+    }
+
+    public String getLecturerName() {
+        return lecturerName;
+    }
+
+    public String getCourseID() {
+        return courseID;
+    }
+
+    public int getCourseYear() {
+        return courseYear;
+    }
+}
+
+// references :
+// https://www.geeksforgeeks.org/java/stream-in-java/
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+class ApplicationTest {
+    private Application application;
+
+    // setup new application test before each test
+    @BeforeEach
+    void setUp() {
+        application = new Application("Software Engineering Practice", "Trish O'Neill", "SE600", 2 );
+    }
+
+    @Test
+    void testGetModuleName() {
+        assertEquals("Software Engineering Practice", application.getModuleName());
+    }
+
+    @Test
+    void testGetLecturerName() {
+        assertEquals("Trish O'Neill", application.getLecturerName());
+    }
+
+    @Test
+    void testGetCourseID() {
+        assertEquals("SE600", application.getCourseID());
+    }
+
+    @Test
+    void testGetCourseYear() {
+        assertEquals(2, application.getCourseYear());
+    }
+}
+
+
+public class Login {
+    private String email;
+    private String password;
+    private int studentID;
+
+    public Login(String email, String password, int studentID) {
+        this.email = email;
+        this.password = password;
+        this.studentID = studentID;
+    }
+
+    public boolean checkLogin(String email, String password) {
+        return this.email.equals(email) && this.password.equals(password);
+    }
+
+    public boolean isValidStudentID(int studentID) {
+        return studentID >= 10000000 && studentID <= 99999999;
+    }
+}
+
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+class LoginTest {
+    private Login login;
+
+    @BeforeEach
+    void setUp() {
+        login = new Login("20112525@setu.ie", "password123", 20112525);
+    }
+
+    @Test
+    void testLoginAuth() {
+        assertTrue(login.checkLogin("20112525@setu.ie", "password123"));
+    }
+
+    @Test
+    void testLoginWrongAuth() {
+        assertFalse(login.checkLogin("20112525@setu.ie", "wrongpassword123"));
+    }
+
+    @Test
+    void testStudentIDAuthTrue() {
+        assertTrue(login.isValidStudentID(20112525));
+    }
+
+    @Test
+    void testStudentIDAuthFalse() {
+        assertFalse(login.isValidStudentID(123456789));
+    }
+}
+
+public class Event {
+    private String eventName;
+    private String description;
+    private String location;
+    private String date;
+    private String time;
+
+    public Event(String eventName, String description, String location, String date, String time) {
+        this.eventName = eventName;
+        this.description = description;
+        this.location = location;
+        this.date = date;
+        this.time = time;
+    }
+
+    // ---
+    // GETTERS
+    public String getEventName() {
+        return eventName;
+    }
+
+    public String getDescription() {
+        return description;
+    }
+
+    public String getLocation() {
+        return location;
+    }
+
+    public String getDate() {
+        return date;
+    }
+
+    public String getTime() {
+        return time;
+    }
+
+    // ---
+    // SETTERS
+    public void setEventName(String eventName) {
+        this.eventName = eventName;
+    }
+
+    public void setDescription(String description) {
+        this.description = description;
+    }
+
+    public void setLocation(String location) {
+        this.location = location;
+    }
+
+    public void setDate(String date) {
+        this.date = date;
+    }
+
+    public void setTime(String time) {
+        this.time = time;
+    }
+
+}
+
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class EventManager {
+
+    private List<Event> events = new ArrayList<>();
+
+    public void addEvent(Event event) {
+        events.add(event);
+    }
+
+    public void deleteEvent(String eventName) {
+        events.removeIf(event -> event.getEventName().equals(eventName));
+    }
+
+    public void updateEvent(String eventName, String newDescription,
+                          String newLocation, String newDate, String newTime) {
+
+        for (Event event : events) {
+            if (event.getEventName().equals(eventName)) {
+
+                event.setDescription(newDescription);
+                event.setLocation(newLocation);
+                event.setDate(newDate);
+                event.setTime(newTime);
+
+                return;
+            }
+        }
+    }
+
+    public List<Event> getEventList() {
+        return events;
+    }
+}
+
+// references :
+// https://www.geeksforgeeks.org/java/stream-in-java/
+
+import org.junit.jupiter.api.BeforeEach;
+import org.junit.jupiter.api.Test;
+import static org.junit.jupiter.api.Assertions.*;
+class EventTest {
+    private EventManager eventManager;
+
+    @BeforeEach
+    void setUp() {
+        eventManager = new EventManager();
+        eventManager.addEvent(new Event("AP Cryptography", "Lab 9", "D04", "Monday 13th April", "3:15PM"));
+        eventManager.addEvent(new Event("Women In Tech Meeting", "Speaker + Info Session", "F09", "Monday 20th April", "5:15PM"));
+        eventManager.addEvent(new Event("Counseling", "Video Call on Zoom", "Online", "Thursday 16th April", "11:30AM"));
+    }
+
+    @Test
+    void testAddEvent() {
+        eventManager.addEvent(new Event("Software Engineering Practice", "Lab - Working on CA!", "IT221", "Tuesday 14th April", "2:15PM"));
+        assertEquals(4, eventManager.getEventList().size());
+    }
+
+    @Test
+    void testDeleteEvent() {
+        eventManager.deleteEvent("Women In Tech Meeting");
+        assertEquals(2, eventManager.getEventList().size());
+    }
+
+    @Test
+    void testUpdateEventChange() {
+        eventManager.updateEvent("Women In Tech Meeting", "Cancelled! Online Committee meeting soon", "Online", "Thursday 23rd April", "8:00PM");
+        Event event = eventManager.getEventList().stream()
+                .filter(e -> e.getEventName().equals("Women In Tech Meeting"))
+                .findFirst()
+                .orElse(null);
+        if (event != null) {
+            assertEquals("Women In Tech Meeting", event.getEventName());
+            assertEquals("Cancelled! Online Committee meeting soon", event.getDescription());
+            assertEquals("Online", event.getLocation());
+            assertEquals("Thursday 23rd April", event.getDate());
+            assertEquals("8:00PM", event.getTime());
+        }
+    }
+
+    @Test
+    void testUpdateEventNotEqualNull() {
+        eventManager.updateEvent("Women In Tech Meeting", "Cancelled! Online Committee meeting soon", "Online", "Thursday 23rd April", "8:00PM");
+        Event event = eventManager.getEventList().stream()
+                .filter(e -> e.getEventName().equals("Women In Tech Meeting"))
+                .findFirst()
+                .orElse(null);
+        assertNotNull(event);
+    }
+
+}
+
+
