@@ -98,8 +98,8 @@
 
 \newpage
 \begingroup
-\renewcommand{\cleardoublepage}{}
-\renewcommand{\clearpage}{}
+{\cleardoublepage}{}
+{\clearpage}{}
 \tableofcontents
 \endgroup
 \newpage
@@ -115,7 +115,7 @@
 \input{prototype}
 \section*{6. References}
 \addcontentsline{toc}{section}{6. References}
-\renewcommand{\refname}{\vspace*{-\baselineskip}} 
+{\refname}{\vspace*{-\baselineskip}} 
 \bibliographystyle{ieeetr} 
 \bibliography{references} 
 
